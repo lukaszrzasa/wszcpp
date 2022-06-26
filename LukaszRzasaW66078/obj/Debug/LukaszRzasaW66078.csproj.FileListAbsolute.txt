@@ -1,0 +1,12 @@
+/Users/lukaszrzasa/Projects/lll/lll/bin/Debug/lll.exe
+/Users/lukaszrzasa/Projects/lll/lll/bin/Debug/lll.pdb
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/LukaszRzasaW66078.csproj.AssemblyReference.cache
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/LukaszRzasaW66078.csproj.CoreCompileInputs.cache
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/lll.exe
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/lll.pdb
+/Users/lukaszrzasa/Projects/lll/LukaszRzasaW66078/bin/Debug/lll.exe
+/Users/lukaszrzasa/Projects/lll/LukaszRzasaW66078/bin/Debug/lll.pdb
+/Users/lukaszrzasa/Projects/lll/LukaszRzasaW66078/obj/Debug/LukaszRzasaW66078.csproj.AssemblyReference.cache
+/Users/lukaszrzasa/Projects/lll/LukaszRzasaW66078/obj/Debug/LukaszRzasaW66078.csproj.CoreCompileInputs.cache
+/Users/lukaszrzasa/Projects/lll/LukaszRzasaW66078/obj/Debug/lll.exe
+/Users/lukaszrzasa/Projects/lll/LukaszRzasaW66078/obj/Debug/lll.pdb

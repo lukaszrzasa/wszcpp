@@ -1,0 +1,6 @@
+/Users/lukaszrzasa/Projects/lll/lll/bin/Debug/lll.exe
+/Users/lukaszrzasa/Projects/lll/lll/bin/Debug/lll.pdb
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/lll.csproj.AssemblyReference.cache
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/lll.csproj.CoreCompileInputs.cache
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/lll.exe
+/Users/lukaszrzasa/Projects/lll/lll/obj/Debug/lll.pdb
